@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, I'm Shodiy Abdulloh 👋
 
-<!--
-**Shodiy-Abdulloh/Shodiy-Abdulloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Artificial Intelligence (in progress) | **Bachelor’s in Business Administration vs Political Science  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ ### 🛠 Tech & Tools
+- **Languages:** Python, SQL  
+- **AI/ML:** Machine Learning, Deep Learning (TensorFlow, PyTorch), Computer Vision (OpenCV, YOLO)  
+- **Data Analytics:** Business Analytics, SPSS 
+- **Data Tools:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Business Tools:** Excel, Google Analytics
 -->
+ How to Reach Me
+- **Email:** [shodiyorbek.abdullayev@gmail.com](mailto:shodiyorbek.abdullayev@gmail.com)  
+- **LinkedIn:** [Shodiyorbek Abdullaev](https://www.linkedin.com/in/shodiyorbek-abdullayev-6b0975243)  
+- **Portfolio:** [Your Website or Portfolio URL]
